@@ -1,3 +1,3 @@
-# Caso Práctico - Technical Interview Solutions - EntreTramites
+# Caso Práctico - EntreTramites
 
-Soluciones al caso práctico técnico para candidato a equipo tech.
+Soluciones al caso práctico técnico Joshua Sebastian Chicame Muñoz
