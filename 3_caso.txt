@@ -1,0 +1,3 @@
+C:\Windows\System32\drivers\etc\hosts
+
+Es la misma rut en Windows 10 Y Windows 11

@@ -1,0 +1,3 @@
+https://www.google.es/
+
+El protocolo https establece una conexión cifrada mediante TLS entre el navegador y el servidor

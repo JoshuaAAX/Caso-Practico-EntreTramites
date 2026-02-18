@@ -1,0 +1,5 @@
+Sí, hay varios escenarios en que puede pasar:
+
+NAT: Es una red doméstica/oficina los dispositivos comparten una única IP pública
+Proxies y VPN: varios usuarios pueden enrutar el mismo tráfico en un mismo servidor  que tiene la misma IP
+CGNAT: los operadores de internet aplican NAT desde nivel de operadora, haciendo que sus cliente compartan IP

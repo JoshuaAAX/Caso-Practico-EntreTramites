@@ -1,0 +1,3 @@
+Respuesta: e) No hay ningún problema es un código válido
+
+El código 418, "i'm a teapot" es un código real valido
